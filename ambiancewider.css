@@ -2473,6 +2473,10 @@ input[type="submit"] {
   color: #fff;
 }
 
+.nav_dropdown #user_menu {
+  width: 100%;
+}
+
 .mediainfoRaw {
   font-family: var(--monospace-ui);
 }
