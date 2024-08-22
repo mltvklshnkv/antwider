@@ -2640,6 +2640,10 @@ body#torrents .sidebar {
 
 .torrent_trailer #videoPlayer {
   height: 600px !important;
+
+  @media (max-width: 1000px) {
+    height: 400px !important;
+  }
 }
 
 table#torrent_details .torrent_row:hover {
