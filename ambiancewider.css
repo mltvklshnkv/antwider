@@ -2446,8 +2446,7 @@ body.style_color_pink .collage_image:hover {
 
 :root {
   --system-ui: system-ui, "Segoe UI", "Roboto", "Ubuntu", "Roboto",
-    "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica", "Arial", sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica", "Arial", sans-serif;
   --monospace-ui: "Cascadia Code", "Consolas", "Ubuntu Mono", "Fira Code",
     "Menlo", "Liberation Mono", "Monaco", monospace;
   --main-column-width: 78%;
