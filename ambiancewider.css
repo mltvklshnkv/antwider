@@ -2464,6 +2464,15 @@ body {
   line-height: 1.5;
 }
 
+button,
+input[type="button"],
+input[type="submit"] {
+  font-family: var(--system-ui);
+  font-size: 12px;
+  background-color: rgba(45, 109, 106, 0.5);
+  color: #fff;
+}
+
 .mediainfoRaw {
   font-family: var(--monospace-ui);
 }
